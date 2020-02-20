@@ -1,4 +1,5 @@
 # Towel Sort
+[![Build status](https://ci.appveyor.com/api/projects/status/evv8owp4wrvgiete?svg=true)](https://ci.appveyor.com/project/ILokalin/towel-sort)
 
 ## Task
 Your task is to implement the so-called 'towel sort' algorithm.
